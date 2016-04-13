@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./oratoresatticie10dobs/oratoresatticie10dobs_0099.png"; bbox 0 0 1963 3372; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 560 1271 1176 1333">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 560 1271 1176 1333">
+     <span class='ocr_line' id='line_1_1' title="bbox 560 1271 1176 1333; baseline 0.016 -9"><span class='ocrx_word' id='word_1_1' title='bbox 560 1271 1176 1333; x_wconf 77' lang='grc' dir='ltr'>ΟὙΛΠΙΑΝΟὙ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 420 1431 1320 1492">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 420 1431 1320 1492">
+     <span class='ocr_line' id='line_1_2' title="bbox 420 1431 1320 1492; baseline 0.018 -16"><span class='ocrx_word' id='word_1_2' title='bbox 420 1431 539 1478; x_wconf 90' lang='grc' dir='ltr'><strong>ΕΙΣ</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 593 1435 802 1483; x_wconf 83' lang='grc' dir='ltr'><strong>ΤΟΥΣ</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 855 1439 1320 1492; x_wconf 79' lang='grc' dir='ltr'><strong>ΔΗΜΟΣῙΟῪΣ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 622 1600 1077 1661">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 622 1600 1077 1661">
+     <span class='ocr_line' id='line_1_3' title="bbox 622 1600 1077 1661; baseline 0.004 -5"><span class='ocrx_word' id='word_1_5' title='bbox 622 1654 625 1656; x_wconf 86' lang='grc'>,</span> <span class='ocrx_word' id='word_1_6' title='bbox 656 1600 1077 1661; x_wconf 83' lang='grc' dir='ltr'><strong>ΕΞΗΓΗΣΙΣ.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
